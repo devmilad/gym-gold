@@ -3,7 +3,7 @@
 ![Screenshot](https://cdn.sanity.io/images/4aqurx4h/production/33a9423ceccfad25674ce5200953e0627c317f66-1280x716.png)
 
 # Introducing the "Golden Gym App" – Your Ultimate Bodybuilding Companion!
-🏋️‍♂️ Elevate Your Fitness Journey with 1200+ Bodybuilding GIFs! 🏋️‍♀️
+### 🏋️‍♂️ Elevate Your Fitness Journey with 1200+ Bodybuilding GIFs! 🏋️‍♀️
 
 Discover the all-new and improved "Golden Gym App," your one-stop destination for unlocking your full potential in bodybuilding. We've taken your feedback seriously and revamped the app to provide you with an even more exceptional experience.
 
@@ -21,7 +21,9 @@ Discover the all-new and improved "Golden Gym App," your one-stop destination fo
 
 🔄 Track Your Progress: Stay motivated by tracking your progress with our user-friendly tracking features. Set personal goals and witness your transformation over time.
 
-
+# Technology in use
+* Reactjs and Mui for design
+* rapidApi for fetching data
 
 # Getting Started with Create React App
 
